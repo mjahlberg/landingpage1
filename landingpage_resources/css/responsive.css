@@ -1,0 +1,315 @@
+@media only screen
+and (max-width : 2000px) {
+
+
+
+}
+@media only screen
+and (max-width : 1240px) {
+
+
+}
+@media only screen
+and (max-width : 1209px) {
+
+}
+
+@media only screen
+and (max-width : 1050px) {
+    .main-section .container {
+        padding: 0px 0px;
+        width: 95%;
+        max-width: 100%;
+        margin: auto;
+    }
+
+
+}
+@media only screen
+and (max-width : 1000px) {
+    .form_container {
+        border-radius: 6px;
+        width: 100%;
+        margin: auto;
+        float: none;
+    }
+    .main-section h1{
+        text-align: center;
+        margin-bottom: 50px;
+    }
+    .header-date {
+        color: white;
+        font-size: 22px;
+        float: left;
+        border-bottom: 1px solid white;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 15px;
+        margin-bottom: 15px;
+    }
+    .hustlecon_header {
+        width: 75%;
+        min-width: 300px;
+        max-width: 1000px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+}
+
+@media only screen
+and (max-width : 990px) {
+
+}
+@media only screen
+and (max-width : 840px) {
+
+    .main-section h1 {
+        text-align: center !important;
+        font-size: 45px;
+    }
+    .top-head {
+        float: none !important;
+        margin: auto !important;
+    }
+    form .col-md-6, form .col-md-5 {
+
+    }
+    .contact {
+        float: none !important;
+        margin: auto !important;
+    }
+
+}
+@media only screen
+and (max-width : 800px) {
+
+}
+@media only screen
+and (max-width : 767px) {
+    .branding .mobile_hide {
+        display:  none;
+    }
+    .branding img {
+        max-width: 85%;
+    }
+
+    body {
+        background-size: cover;
+    }
+    #companies .col-md-3 img {
+        max-width: 220px;
+        opacity: 0.5;
+        width: 100%;
+    }
+    div.cs-skin-slide {
+        width: 95%;
+    }
+}
+@media only screen
+and (max-width : 750px) {
+    .main-section h1 {
+        font-size: 35px;
+    }
+    .header-quote-experience {
+        font-size: 45px;
+    }
+}
+@media only screen
+and (max-width : 600px) {
+
+}
+@media only screen
+and (max-width : 550px) {
+    .jumbotron {
+        padding: 0px 2% 30px 2%;
+    }
+    #video-frame {
+        display: none;
+    }
+    .navbar-brand {
+        height: 73px;
+        padding: 12px 5px;
+        width: 100%;
+        /*background-image: url(../img/logo_blue.png);*/
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 56%;
+        min-width: 0px;
+        margin-left: 0px !important;
+    }
+    .copy-frame .col-xs-6,
+    .copy-frame .col-xs-5{
+        width: 100%;
+    }
+    .benefit img {
+        max-width: 90%;
+    }
+    .icons .col-sm-6{
+        padding: 0px;
+    }
+}
+@media only screen
+and (max-width : 420px) {
+    iframe {
+        max-height: 230px !important;
+    }
+    .video {
+        height: 123px;
+    }
+    .mobile_hashtag {
+        display: block !important;
+    }
+    .tab_toggle{
+        display: none !important;
+    }
+    .brand_logo {
+        height: 65px;
+    }
+    .main-section h1 {
+        font-size: 36px;
+    }
+    .main-section #sub_heading {
+       font-size:21px;
+    }
+    .cs-skin-slide .cs-options li span {
+
+        padding-right: 0px !important;
+        padding-left: 40px !important;
+        letter-spacing: 1px;
+        font-size: 19px;
+    }
+    .cs-skin-slide .cs-options {
+        padding-top: 27px;
+    }
+    .cs-skin-slide > span::after, .cs-skin-slide.cs-active > span::after{
+        font-size: 20px;
+    }
+    .cs-skin-slide > span {
+        font-size: 20px;
+        padding-right: 0px;
+        margin-right: 0px;
+    }
+    .jumbotron button, .jumbotron .a_btn {
+        width: 60%;
+    }
+    .form_item {
+        width: 94%;
+        transition: 1.2s;
+        right: 3%;
+    }
+    form{
+        height:auto;
+    }
+    svg {
+        width: 90% !important;
+        height: 50px !important;
+    }
+    body {
+        background-size: 345%;
+        background-repeat: no-repeat;
+    }
+    .form_switch {
+        height: 625px !important;
+    }
+    .form_switch button{
+        width: 90%;
+
+    }
+    form img{
+        max-width: 27px !important;
+
+    }
+    .form-sub-heading {
+        width: 90%;
+        margin: auto;
+    }
+    #sub_heading img{
+        width: 50% !important;
+    }
+    #companies .row {
+        width: 90%;
+    }
+    #companies .col-xs-4 {
+        padding: 0px;
+    }
+    #companies .col-md-4 h2 {
+        color: white;
+        font-size: 22px;
+        font-family: 'Open Sans';
+        margin-top: 19px;
+    }
+    #companies .col-md-4 img {
+        margin-top: 30px;
+    }
+    .mobile_hide {
+        display: none !important;
+    }
+    .mobile_show {
+        display: inline-block !important;
+    }
+    .family .col-md-6{
+        width: 80% !important;
+        margin: auto !important;
+        padding: 0px !important;
+    }
+    .family h2,
+    .family h4,{
+        width: 80%;
+    }
+    #map {
+        background-size: 282%;
+        background-repeat: no-repeat;
+        background-position: -463px center;
+        height: 432px;
+    }
+    #companies .row {
+        width: 100%;
+    }
+    .main-section h1 {
+        font-size: 32px;
+    }
+    .header-quote-experience {
+        font-size: 32px;
+    }
+    .header-date {
+        font-size: 14px;
+    }
+    .top-head {
+        float: none !important;
+    }
+}
+
+
+@media only screen
+and (max-width : 360px) {
+    .main-section h1 {
+        font-size: 25px;
+    }
+    .header-quote-experience {
+        font-size: 25px;
+    }
+}
+
+@media only screen
+and (max-width : 320px) {
+    #map {
+        background-image: url('../img/map_mobile.jpg');
+        background-size: 304%;
+        background-repeat: no-repeat;
+        background-position: -405px center;
+        height: 369px;
+    }
+
+    /*.main-section h1 {*/
+        /*font-size: 25px;*/
+    /*}*/
+    /*.header-quote-experience {*/
+        /*font-size: 25px;*/
+    /*}*/
+}
+
+/* iPhone 4 ----------- */
+    @media screen and (max-height:500px) {
+
+    }
+
